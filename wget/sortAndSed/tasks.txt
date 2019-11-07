@@ -1,0 +1,10 @@
+Zad. 1. (plik input1.txt) Wydobyć nazwiska i posortować alfabetycznie.
+
+Zad.2. (plik input1.txt) Obliczyć ile razy wystąpiło dane imię w pliku oraz posortować według częstości występowania w pliku.
+
+Zad.3. (plik input2.txt) Wydobyć z wierszyka wszystkie komendy i polecenia linuksowe.
+
+Zad.4 (plik input2.txt) Z listy uzyskanej w zadaniu poprzednim wybrać tylko te komendy, które mają w sobie literkę „s”.
+
+Zad.5 (plik input2.txt) Wybrać komendy, w których nie ma literki „a”.
+
